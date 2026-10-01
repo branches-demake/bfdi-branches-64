@@ -18,13 +18,15 @@ I would also prefer to support fast load cartridges because loading from or savi
 
 Multiple disk drives support can be useful for saving and loading levels, as well as downloading online levels and software updates.
 
-Datasettes (data cassette tapes) are alright.
-
-SD2IEC and USB support.
-
 Speaking of downloading levels and updates, I would also have support for modems or networking cartridges to connect to the internet.
 
+Datasettes (data cassette tapes) are alright.
+
+SD2IEC and USB support are recommended.
+
 I would prefer to be running in NTSC, but you can optimize the game for PAL systems.
+
+I would also have the Amiga CD32 controller support as well as TexElec's SNES controller adapter as used in PETSCII Robots.
 
 ## Features
 I would prefer to have an original story mode (not finished yet), as well as additional side stories, speedrun mode, level editor and online features as the original, but nix the outbound online features like level uploads, completion submissions and online accounts since it's an unofficial port.
