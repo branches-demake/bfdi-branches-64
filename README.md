@@ -12,7 +12,7 @@ The Commodore 64 port of BFDI: Branches is my dream port of the game and I am wo
 I would want this port to be written in 6502 assembly for the game code because writing the entire game in BASIC could run painfully slow due to being an interpreter.
 
 ## Hardware
-I would prefer at least to run on an original C64 without any RAM Expansion Units or CPU accelerators like the Turbo Chameleon and the SuperCPU, but if you find RAM limitations hindering the development, you can use REUs, a SuperCPU, or any modern RAM expansion unit. Running on the VICE emulator is recommended for testing. The brand new Commodore 64 Ultimate as well as the Commodore 77 [Cyberpunk 2077 C64] is highly encouraged.
+I would prefer at least to run on an original C64 without any RAM Expansion Units or CPU accelerators like the Turbo Chameleon and the CMD SuperCPU, but if you find RAM limitations hindering the development, you can use REUs, a SuperCPU, or any modern RAM expander. Running on the VICE emulator is recommended for testing. The brand new Commodore 64 Ultimate as well as the Commodore 77 [Cyberpunk 2077 C64] or the Mega65 is highly encouraged.
 
 I would also prefer to support fast load cartridges because loading from or saving to floppy disk on the 1541 disk drive is very slow due to a hardware bug on the C64 as well as the VIC-20 regarding IEC ports in contrast of IEEE-488 ports on the Commodore PET.
 
@@ -41,4 +41,16 @@ Any vibe-coded pull requests will be declined without question.
 Also, assets must not be AI generated.
 
 ## Commodore 128
-The Commodore 128 has a C64 mode which makes the C128 into an almost fully compatible C64 (slow C64 1541 disk speed, 64k RAM, extra keys disabled, no Z80 access, no RGBi output, BASIC 2.0, 1MHz clock speed and no 80-column display), but there's a way to expose the C128 components just like how Sonic The Hedgehog C64 port used the C128's CPU accelerator.
+The Commodore 128 has a C64 mode which makes the C128 into an almost fully compatible C64.
+
+Caveats in C64 mode on the 128: 
+- Slower C64 1541 disk speed compared to much faster C128 burst mode
+- 64k RAM (C128 has 128k RAM), after all it's a Commodore **64**
+- Extra keys disabled
+- No Z80 access
+- No RGBi output
+- BASIC 2.0 (128 has BASIC 7.0), don't worry we won't be using BASIC in the game code.
+- 1MHz clock speed (128 has 2MHz)
+- No 80-column display
+
+But there's a way to expose the C128 components in C64 mode just like how Sonic The Hedgehog C64 port detects whether it's a C128 or not and exploits the use of C128 components, or better yet, make a C128 native port (VIC version or VDC version) of the game, a canceled Commodore 65 port and even a Commander X16 port.
