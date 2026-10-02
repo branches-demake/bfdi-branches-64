@@ -36,7 +36,7 @@ I prefer to avoid LLM model coding, known as "vibe-coding," as it is unreliable,
 
 **ALL CODE MUST BE WRITTEN BY HAND. NO EXCEPTIONS.**
 
-Any vibe-coded pull requests will be declined without question.
+Any vibe-coded pull requests will be declined without question. Habitual vibe-coding will result in a permanent ban from contributing to the project.
 
 Also, assets must not be AI generated.
 
