@@ -49,8 +49,8 @@ Caveats in C64 mode on the 128:
 - Extra keys disabled
 - No Z80 access
 - No RGBi output
-- BASIC 2.0 (128 has BASIC 7.0), don't worry we won't be using BASIC in the game code.
+- BASIC 2.0 (128 has BASIC 7.0), don't worry we won't be using BASIC in the game code
 - 1MHz clock speed (128 has 2MHz)
 - No 80-column display
 
-But there's a way to expose the C128 components in C64 mode just like how Sonic The Hedgehog C64 port detects whether it's a C128 or not and exploits the use of C128 components, or better yet, make a C128 native port (VIC version or VDC version) of the game, a canceled Commodore 65 port and even a Commander X16 port.
+But there's a way to expose the C128 components in C64 mode just like how Sonic The Hedgehog C64 port detects whether it's a C128 or not and exploits the use of C128 components, or better yet, make a C128 native port of BFDI: Branches, and even a Commander X16 port.
