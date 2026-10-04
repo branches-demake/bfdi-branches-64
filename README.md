@@ -5,7 +5,7 @@ The unofficial Commodore 64 port of BFDI: Branches [original by Team Branches]
 This project is unofficial and is not affiliated by Team Branches, jacknjellify or Commodore.
 
 ## Why the C64 port?
-The Commodore 64 port of BFDI: Branches is my dream port of the game and I am wondering what it feels like. I like experimenting with 8-bit computers like the Commodore 64, and the Commander X16. I absolutely hate how expensive gaming computers are, especially the RAM and SSDs, because of the AI companies!
+The Commodore 64 port of BFDI: Branches is my dream port of the game and I am wondering what it feels like. I like experimenting with 8-bit computers like the Commodore 64, and the Commander X16. I absolutely hate how expensive gaming computers are, especially the RAM and SSDs, because of the AI companies, and I refuse to use 9th gen gaming consoles.
 
 # Criteria for the BFDI Branches C64 port
 ## Programming Language
