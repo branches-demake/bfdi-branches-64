@@ -11,4 +11,4 @@
 - AI-generated art of any kind is not allowed here
 
 ## Code
-- No vibe-coding (LLM model coding)
+- No vibe-coding (LLM model coding). Refer to the [Anti-vibecode policy](https://github.com/branches-demake#anti-vibecode-policy)
