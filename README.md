@@ -34,7 +34,7 @@ I would prefer to have an original story mode (not finished yet), as well as add
 ## Integrity
 I prefer to avoid LLM model coding, known as "vibe-coding," as it is unreliable, unethical, and hated by the community.
 
-**ALL CODE MUST BE WRITTEN BY HAND. NO EXCEPTIONS.**
+**ALL CODE MUST BE WRITTEN IN A TRADITIONAL WAY. NO EXCEPTIONS.**
 
 Any vibe-coded pull requests will be declined without question. Habitual vibe-coding will result in a permanent ban from contributing to the project.
 
