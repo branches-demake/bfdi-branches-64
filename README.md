@@ -29,7 +29,7 @@ I would prefer to be running in NTSC, but you can optimize the game for PAL syst
 I would also have the Amiga CD32 controller support as well as TexElec's SNES controller adapter as used in PETSCII Robots.
 
 ## Features
-I would prefer to have an original story mode (not finished yet), as well as additional side stories, speedrun mode, level editor and online features as the original, but nix the outbound online features like level uploads, completion submissions and online accounts since it's an unofficial port.
+I would prefer to have an original story mode (not finished yet), as well as additional side stories, speedrun mode, level editor and online features as the original, but nix the outbound online features like level uploads, completion submissions and online accounts since it's an unofficial port. No DLCs, no microtransactions, no ads, no tracking.
 
 ## Integrity
 I prefer to avoid LLM model coding, known as "vibe-coding," as it is unreliable, unethical, and hated by the community.
