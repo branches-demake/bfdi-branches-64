@@ -9,7 +9,7 @@ The Commodore 64 port of BFDI: Branches is my dream port of the game and I am wo
 
 # Criteria for the BFDI Branches C64 port
 ## Programming Language
-I would want this port to be written in 6502 assembly for the game code because writing the entire game in BASIC could run painfully slow due to being an interpreter.
+I would want this port to be written in 6502 assembly or C for the game code because writing the entire game in BASIC could run painfully slow due to being an interpreter.
 
 ## Hardware
 I would prefer at least to run on an original C64 without any RAM Expansion Units or CPU accelerators like the Turbo Chameleon and the CMD SuperCPU, but if you find RAM limitations hindering the development, you can use REUs, a SuperCPU, or any modern RAM expander. Running on the VICE emulator is recommended for testing. The brand new Commodore 64 Ultimate as well as the Commodore 77 [Cyberpunk 2077 C64] or the Mega65 is highly encouraged.
