@@ -1,0 +1,45 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: bug
+assignees: ''
+type: Bug
+
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Run BFDI: Branches C64
+2. Enter a game mode
+3. Go to a certain point
+4. See error or bug
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots or pictures**
+If applicable, add screenshots or pictures to help explain your problem.
+
+**Original hardware: (please complete the following information):**
+ - Commodore 64 model: [e.g. Breadbin C64, C64C, C128 C64 mode]
+ - Cartridge: [e.g, RAM Expansion Unit 1764, SuperCPU]
+ - Modified system?: Yes or No, if yes please list the mods
+ - Region: [e.g. NTSC or PAL]
+ - When is your C64/C128 manufactured? (optional): [e.g. December 1983]
+
+**Modern FPGA hardware (please complete the following information):**
+ - FPGA system: [e.g. Commodore 64 Ultimate]
+ - Modified system?: Yes or No, if yes, please list the mods
+ - Region: [e.g. NTSC or PAL]
+
+**Emulator (please complete the following information):**
+ - Emulator: [e.g. VICE]
+ - Emulator version: [e.g. 3.10]
+ - OS: [e.g. Windows, Arch Linux, macOS, Android]
+
+**Additional context**
+Add any other context about the problem here.
