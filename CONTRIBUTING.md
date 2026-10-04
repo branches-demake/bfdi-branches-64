@@ -2,6 +2,8 @@
 ## General
  - Everyone is welcome here
  - Do not use slurs and do not discriminate anyone in any way
+ - We welcome constructive feedback
+ - Retaliation, harassment, bigotry, and trolling are not tolerated
 
 ## Sprites, Tiles and PETSCII
 - Make sure it's relevant and conforms to the C64 hardware limitations
