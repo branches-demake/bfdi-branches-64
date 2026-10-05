@@ -26,9 +26,10 @@ If applicable, add screenshots or pictures to help explain your problem.
 
 **Original hardware: (please complete the following information):**
  - Commodore 64 model: [e.g. Breadbin C64, C64C, C128 C64 mode]
- - Cartridge: [e.g, RAM Expansion Unit 1764, SuperCPU]
- - Modified system?: Yes or No, if yes please list the mods
- - Region: [e.g. NTSC or PAL]
+ - Cartridge: [e.g, RAM Expansion Unit 1764, SuperCPU, type "N/A" if you don't have one in]
+ - Userport: [e.g. TexElec SNES adapter, type "N/A" if you don't have one connected]
+ - Modified system?: [Yes or No, if yes please list the mods]
+ - Region: [NTSC or PAL]
  - When is your C64/C128 manufactured? (optional): [e.g. December 1983]
 
 **Modern FPGA hardware (please complete the following information):**
@@ -39,7 +40,9 @@ If applicable, add screenshots or pictures to help explain your problem.
 **Emulator (please complete the following information):**
  - Emulator: [e.g. VICE]
  - Emulator version: [e.g. 3.10]
+ - Hardware: [e.g. your own rig, or TheC64]
  - OS: [e.g. Windows, Arch Linux, macOS, Android]
+ - Architecture: [x86, ARM]
 
 **Additional context**
 Add any other context about the problem here.
