@@ -4,7 +4,7 @@ The unofficial Commodore 64 port of BFDI: Branches [original by mationsBOMB from
 ## Disclaimer
 This project is unofficial and is not affiliated by Team Branches, jacknjellify or Commodore.
 
-I asked in the BFDI: Branches Discord that is it okay to port the game on the Commodore 64, Commander X16, and any other 8-bit computers and such, and they said yes, as long as we put "Unofficial Port" on the title screen.
+I asked in the BFDI: Branches Discord that is it okay to port the game on the Commodore 64, C128, C64 Ultimate, or Commander X16, and they said yes, stated that would be awesome to see, as long as we say "Unofficial Port" on the title screen.
 
 Shoutouts go to:
 - Meester Tweester (from Team Branches)
