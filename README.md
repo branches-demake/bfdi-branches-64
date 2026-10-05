@@ -1,8 +1,25 @@
 # BFDI: Branches Commodore 64 port
-The unofficial Commodore 64 port of BFDI: Branches [original by Team Branches]
+The unofficial Commodore 64 port of BFDI: Branches [original by mationsBOMB from Team Branches]
 
 ## Disclaimer
 This project is unofficial and is not affiliated by Team Branches, jacknjellify or Commodore.
+
+I asked in the BFDI: Branches Discord that is it okay to port the game on the Commodore 64, Commander X16, and any other 8-bit computers and such, and they said yes, as long as we put "Unofficial Port" on the title screen.
+
+Shoutouts go to:
+- Meester Tweester (from Team Branches)
+- supersonico16 (from Team Branches)
+- Lapis (from Team Snowflakes)
+- GDNacho (from Team Branches, and The Bracelety Inquisition)
+- The rest of Team Branches and Team Snowflakes
+
+You are all amazing :3
+
+The Branches Demake Team will not make profits in any way.
+
+[Watch BFDI by jacknjellify](https://www.youtube.com/@BFDI)
+
+[Play BFDI: Branches by Team Branches](https://bfdibranches.com)
 
 ## Why the C64 port?
 The Commodore 64 port of BFDI: Branches is my dream port of the game and I am wondering what it feels like. I like experimenting with 8-bit computers like the Commodore 64, and the Commander X16. I absolutely hate how expensive gaming computers are, especially the RAM and SSDs, because of the AI companies, and I refuse to use 9th gen gaming consoles.
