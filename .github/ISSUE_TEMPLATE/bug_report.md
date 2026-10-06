@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help us improve the game
 title: "[BUG]"
 labels: bug
-assignees: ''
+assignees: ObsidianMiner13
 type: Bug
 
 ---
@@ -24,6 +24,8 @@ A clear and concise description of what you expected to happen.
 **Screenshots or pictures**
 If applicable, add screenshots or pictures to help explain your problem.
 
+Are you running on an original C64, an FPGA system, or an emulator?: [Original, FPGA, Emulator]
+
 **Original hardware: (please complete the following information):**
  - Commodore 64 model: [e.g. Breadbin C64, C64C, C128 C64 mode]
  - Cartridge: [e.g, RAM Expansion Unit 1764, SuperCPU, type "N/A" if you don't have one in]
@@ -32,8 +34,8 @@ If applicable, add screenshots or pictures to help explain your problem.
  - Region: [NTSC or PAL]
  - When is your C64/C128 manufactured? (optional): [e.g. December 1983]
 
-**Modern FPGA hardware (please complete the following information):**
- - FPGA system: [e.g. Commodore 64 Ultimate]
+**FPGA hardware (please complete the following information):**
+ - FPGA system: [e.g. Commodore 64 Ultimate, MiSTer FPGA]
  - Modified system?: Yes or No, if yes, please list the mods
  - Region: [e.g. NTSC or PAL]
 
