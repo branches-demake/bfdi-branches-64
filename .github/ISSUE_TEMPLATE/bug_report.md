@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve the game
 title: "[BUG]"
 labels: bug
-assignees: ObsidianMiner13
+assignees: ''
 type: Bug
 
 ---
